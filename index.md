@@ -4,5 +4,5 @@
      height="150" />
 # Silkstone Common Miners Welfare FC
 We are recruiting Players!
-<img src="silkstone common.png" 
+<img src="Silkstone common.png" 
      alt="player recruitment poster" />
