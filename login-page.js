@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "user" && password === "web_dev") {
+    if (username === "Henry" && password === "password") {
         window.location.replace("http://www.w3schools.com");
         location.reload();
     } else {
