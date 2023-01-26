@@ -9,7 +9,6 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "Henry" && password === "password") {
         window.location.replace("http://www.w3schools.com");
-        location.reload();
     } else {
         loginErrorMsg.style.opacity = 1;
     }
