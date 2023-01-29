@@ -2,7 +2,11 @@
      alt="logo"
      width="150" 
      height="150" />
-# Silkstone Common Miners Welfare FC
+Club info
+Parents
+Under 8s
+Under 10s
+Under 11s
 We are recruiting Players!
 
 <img src="Silkstone common.png" 
