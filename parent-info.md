@@ -4,6 +4,7 @@
      height="150" />
      
  # Parent Info
+ 
  The support of our players' parents is immensely valued in order to allow both the club and players to flourish. Below are some handy reference documents:
  
  Safeguarding policy
