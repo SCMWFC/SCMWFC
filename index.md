@@ -3,7 +3,7 @@
      width="150" 
      height="150" />
 
-Club info
+About us
 Parents
 Under 8s
 Under 10s
