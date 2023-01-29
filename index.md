@@ -8,6 +8,7 @@
 <a href="https://henrygtalentshows.ml/under-8s">Under 8s</a>
 <a href="https://henrygtalentshows.ml/under-10s">Under 10s</a>
 <a href="https://henrygtalentshows.ml/under-11s">Under 11s</a>
+<a href="https://henrygtalentshows.ml/contact-us">Contact</a>
 
 <img src="Silkstone common.png" 
      alt="player recruitment poster"
