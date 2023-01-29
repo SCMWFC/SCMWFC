@@ -2,7 +2,7 @@
      alt="logo"
      width="150" 
      height="150" />
-# Silkstone Common Miners Welfare Football Club
+# About Us
 
 Silkstone Common Miners Welfare FC was founded in 1926 when local miners accessed welfare funds to purchase a patch of land in Hall Royd Wood and cleared the trees to
 create a football pitch. Following pit closures, ownership of the recreation and sports ground passed to Barnsley Council from British Coal in the 1990s.
