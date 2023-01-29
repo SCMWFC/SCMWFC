@@ -9,5 +9,4 @@ We are now recruiting for players to join our new Under 11s team which starts ne
 
 <img src="Silkstone common.png" 
      alt="logo"
-     width="150" 
-     height="150" />
+     width="500" />
