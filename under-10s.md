@@ -12,4 +12,5 @@ Manager: Tristan Green
      width="" 
      height="" />
 
-Upcoming fixtures:
+Upcoming fixtures: Click
+<a href="https://fulltime.thefa.com/fixtures.html?selectedSeason=998240439&selectedFixtureGroupAgeGroup=0&selectedFixtureGroupKey=2_264903499&selectedDateCode=all&selectedClub=&selectedTeam=69432418&selectedRelatedFixtureOption=3&selectedFixtureDateStatus=&selectedFixtureStatus=&previousSelectedFixtureGroupAgeGroup=&previousSelectedFixtureGroupKey=2_264903499&previousSelectedClub=&itemsPerPage=25">here</a>
