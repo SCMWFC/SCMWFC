@@ -5,12 +5,12 @@
      
  # Parent Info
  
- The support of our players' parents is immensely valued in order to allow both the club and players to flourish. Below are some handy reference documents:
+The support of our players' parents is immensely valued in order to allow both the club and players to flourish. Below are some handy reference documents:
  
- Safeguarding policy
+<a href="https://www.thefa.com/football-rules-governance/safeguarding">Safeguarding Policy</a>
  
  
- FA Supporters Guide
+
  
  
  Respect
