@@ -11,9 +11,9 @@ Facebook Page:
 
 Club Chairman: Nigel Matthewman
 
-Club Secretary: Rachael Green
+Club Secretary: 
 
-Welfare Officer/Treasurer: Pete Schofield
+Welfare Officer/Treasurer: 
 
 Facilities Manager: Russell Faulkner
 
