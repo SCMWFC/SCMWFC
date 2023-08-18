@@ -10,7 +10,3 @@
 <a href="https://scmwfc.co.uk/under-9s">Under-9s |</a>
 <a href="https://scmwfc.co.uk/under-10s">Under-10s |</a>
 <a href="https://scmwfc.co.uk/contact-us">Contact</a>
-
-<img src="Silkstone common.png" 
-     alt="player recruitment poster"
-     width="500" />
