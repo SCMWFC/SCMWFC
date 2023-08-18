@@ -8,5 +8,4 @@
 <a href="https://scmwfc.co.uk/under-7s">Under-7s |</a>
 <a href="https://scmwfc.co.uk/under-8s">Under-8s |</a>
 <a href="https://scmwfc.co.uk/under-9s">Under-9s |</a>
-<a href="https://scmwfc.co.uk/under-10s">Under-10s |</a>
 <a href="https://scmwfc.co.uk/contact-us">Contact</a>
