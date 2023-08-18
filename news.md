@@ -1,1 +1,1 @@
-<iframe src="http://news.scmwfc.co.uk"> </iframe>
+<iframe src="http://news.scmwfc.co.uk" title="SCMWFC news"></iframe>
