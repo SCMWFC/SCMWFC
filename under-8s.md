@@ -10,4 +10,4 @@ Assistant:
 
 Upcoming fixtures:
 
-<a href="https://news.scmwfc.co.uk/p/under-9s.html">News</a>
+<a href="https://news.scmwfc.co.uk/p/under-8s.html">News</a>
