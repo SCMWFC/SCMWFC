@@ -1,8 +1,8 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This badge is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 <img src="silkstone common fc logo.png" 
      alt="logo"
-     width="110" 
-     height="110" />
+     width="150" 
+     height="150" />
 
 <a href="https://scmwfc.co.uk/about-us">About |</a>
 <a href="https://scmwfc.co.uk/parent-info">Parents |</a>
