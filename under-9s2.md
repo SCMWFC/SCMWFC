@@ -3,9 +3,9 @@
      width="150" 
      height="150" />
      
-# Under 8s Team
+# Under 9s Team
 
-Our Under 8s team currently play on a Sunday in the Sheffield and Hallamshire Junior League. We train on Wednesdays at Silkstone Common Recreation Ground April to October and indoors at Shoot 5 during winter.
+Our Under 9s team currently play on a Sunday in the Sheffield and Hallamshire Junior League. We train on Wednesdays at Silkstone Common Recreation Ground April to October and indoors at Shoot 5 during winter.
 
 Manager: Carl Green
 <img src="" 
