@@ -11,7 +11,7 @@ Facebook Page:
 
 Club Chairman: Nigel Matthewman
 
-Club Secretary: 
+Club Secretary:
 
 Welfare Officer/Treasurer: 
 
