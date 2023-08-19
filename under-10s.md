@@ -4,7 +4,6 @@
      height="150" />
      
 # Under 10s Team
-### We are looking for players who are under 10 on 31st August 2023 to play in the 2023/24 season.
 Our Under 10s team currently play on a Sunday in the Barnsley & District Junior League. We train on Wednesdays at Silkstone Common Recreation Ground April to October and indoors at Shoot 5 during winter.
 
 Manager: Tristan Green
